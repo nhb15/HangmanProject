@@ -26,7 +26,7 @@ import javax.imageio.ImageIO;
 import javax.swing.ImageIcon;
 
 import javax.swing.Timer;
-
+//UI
 public class HangmanFrame extends JFrame implements ActionListener {
 
 	private static boolean isEasy = true;
